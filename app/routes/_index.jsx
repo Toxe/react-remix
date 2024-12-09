@@ -1,3 +1,5 @@
+import { Link } from "@remix-run/react";
+
 export const meta = () => {
     return [
         { title: "New Remix App" },
@@ -10,6 +12,9 @@ export default function Index() {
         <div>
             <div>
                 <h1>Main Page</h1>
+                <ul>
+                    <li><Link to="/page1">Page 1: Simple, unformatted page</Link></li>
+                </ul>
             </div>
             <div>
                 <a href="https://remix.run/docs/en/main/start/quickstart">based on Remix Quick Start (without TypeScript)</a>
