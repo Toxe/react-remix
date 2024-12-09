@@ -14,6 +14,7 @@ export default function Index() {
                 <h1>Main Page</h1>
                 <ul>
                     <li><Link to="/page1">Page 1: Simple, unformatted page</Link></li>
+                    <li><Link to="/page2">Page 2: Routing and CSS</Link></li>
                 </ul>
             </div>
             <div>
