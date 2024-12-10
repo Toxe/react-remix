@@ -4,6 +4,11 @@ Just a simple project to take a look at [Remix](https://remix.run). Based on the
 
 Run `npm run dev` and open http://localhost:5173.
 
+|           | Version |
+| --------- | ------: |
+| **React** |  18.3.1 |
+| **Remix** |  2.15.0 |
+
 ![screenshot01](screenshots/screenshot01.png)
 ![screenshot02](screenshots/screenshot02.png)
 ![screenshot03](screenshots/screenshot03.png)
