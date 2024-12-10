@@ -1,40 +1,9 @@
-# Welcome to Remix!
+# Simple Remix Getting Started React App
 
-- 📖 [Remix docs](https://remix.run/docs)
+Just a simple project to take a look at [Remix](https://remix.run). Based on the [Quick Start](https://remix.run/docs/en/main/start/quickstart) app (without TypeScript).
 
-## Development
+Run `npm run dev` and open http://localhost:5173.
 
-Run the dev server:
-
-```shellscript
-npm run dev
-```
-
-## Deployment
-
-First, build your app for production:
-
-```sh
-npm run build
-```
-
-Then run the app in production mode:
-
-```sh
-npm start
-```
-
-Now you'll need to pick a host to deploy it to.
-
-### DIY
-
-If you're familiar with deploying Node applications, the built-in Remix app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
-
-- `build/server`
-- `build/client`
-
-## Styling
-
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever css framework you prefer. See the [Vite docs on css](https://vitejs.dev/guide/features.html#css) for more information.
+![screenshot01](screenshots/screenshot01.png)
+![screenshot02](screenshots/screenshot02.png)
+![screenshot03](screenshots/screenshot03.png)
